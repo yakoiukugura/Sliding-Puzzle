@@ -1,0 +1,10 @@
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Sliding Puzzle\Sliding Puzzle\bin\Debug\Sliding Puzzle.exe.config
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Sliding Puzzle\Sliding Puzzle\bin\Debug\Sliding Puzzle.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Sliding Puzzle\Sliding Puzzle\bin\Debug\Sliding Puzzle.pdb
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding Puzzle.csproj.AssemblyReference.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding_Puzzle.Form1.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding_Puzzle.Properties.Resources.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding Puzzle.csproj.GenerateResource.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding Puzzle.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding Puzzle.pdb
